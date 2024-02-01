@@ -1,0 +1,42 @@
+2021-12-07 21:17:35 - 🤖 Starting bot
+2021-12-07 21:22:51 - 🤖 Starting bot
+2021-12-07 21:23:13 - 🤖 Starting bot
+2021-12-07 21:24:32 - 🤖 Starting bot
+2021-12-07 21:27:44 - 🤖 Starting bot
+2021-12-07 21:29:57 - 🤖 Starting bot
+2021-12-07 21:31:52 - 🤖 Starting bot
+2021-12-07 21:32:02 - 😓 Shutting down the bot
+2021-12-07 21:32:02 - 👋 Bye
+2021-12-07 21:49:06 - 🤖 Starting bot
+2021-12-07 21:49:54 - 😓 Shutting down the bot
+2021-12-07 21:49:54 - 👋 Bye
+2021-12-13 19:43:58 - 🤖 Starting bot
+2021-12-13 19:44:06 - 🤖 Starting bot
+2021-12-13 19:44:06 - 👋 Bye
+2021-12-13 19:44:32 - 🤖 Starting bot
+2021-12-13 19:45:23 - 🤖 Starting bot
+2021-12-13 19:45:37 - 🤖 Starting bot
+2021-12-13 19:47:37 - 🤖 Starting bot
+2021-12-13 19:47:58 - 😓 Shutting down the bot
+2021-12-13 19:48:16 - 🤖 Starting bot
+2021-12-13 19:48:27 - 😓 Shutting down the bot
+2021-12-13 19:48:50 - 🤖 Starting bot
+2021-12-13 19:51:27 - 🤖 Starting bot
+2021-12-13 19:51:31 - 😓 Shutting down the bot
+2021-12-13 19:52:16 - 🤖 Starting bot
+2021-12-13 19:52:46 - 🤖 Starting bot
+2021-12-13 19:53:36 - 🤖 Starting bot
+2021-12-13 19:53:53 - 🤖 Starting bot
+2021-12-13 19:54:12 - 😓 Shutting down the bot
+2021-12-13 19:56:18 - 🤖 Starting bot
+2021-12-13 19:56:22 - 🤖 Starting bot
+2021-12-13 19:56:34 - 🤖 Starting bot
+2021-12-13 19:56:46 - 🤖 Starting bot
+2021-12-13 20:01:55 - 🤖 Starting bot
+2021-12-13 20:01:57 - 🤖 Starting bot
+2021-12-13 20:02:15 - 🤖 Starting bot
+2021-12-13 20:02:36 - 🤖 Starting bot
+2021-12-13 20:02:48 - 🤖 Starting bot
+2021-12-13 20:03:29 - 🤖 Starting bot
+2021-12-13 20:03:48 - 😓 Shutting down the bot
+2021-12-13 20:03:52 - 🤖 Starting bot
