@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "axios": "^0.28.0",
+    "axios": "^0.30.0",
     "dayjs": "^1.10.7",
     "express": "^4.21.2",
     "express-async-errors": "^3.1.1",
